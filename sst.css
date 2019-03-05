@@ -1,0 +1,54 @@
+#sst-nav{
+	color: #484E50;
+	background-color: #FFFFFF;
+	padding-left: 5%;
+}
+#sst-nav a{
+	color: #484E50;
+}
+
+#logo{
+	width: 75px;
+	height: 60px;
+}
+
+body{
+	color: #F8F9FA;
+	background-color: #43A7CE;
+	display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+  }
+
+h4{
+	text-align: center;
+}
+h5{
+	text-align: center;
+}
+
+h6{
+	text-align: center;
+}
+
+#login-form {
+	color: #484E50;
+	background: rgba(240,240,240,0.5);
+	text-align: center;
+	padding: 10%;
+}
+
+#login-text{
+	color: #484E50;
+	background: #F8F9FA;
+	padding-left: 2%;
+}
+
+#login-footer{
+	display: block;
+	background-color: rgba(0,0,0, 0.3);
+}
